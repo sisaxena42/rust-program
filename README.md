@@ -1,2 +1,2 @@
 # Rust Program
-https://<your-username>.github.io/comp423-course-notes/tutorials/rust-setup/
+https://sisaxena42.github.io/comp423-course-notes/tutorials/rust-setup/
